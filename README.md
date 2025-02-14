@@ -1,4 +1,4 @@
-#Disaster Tweets Classification
+# Disaster Tweets Classification
 
 ## Overview
 This project implements various machine learning models to classify tweets as either disaster-related (1) or non-disaster-related (0). The system uses natural language processing techniques and compares the performance of multiple classification algorithms, with Multinomial Naive Bayes achieving the best performance at 80% accuracy.
